@@ -33,6 +33,8 @@ Andrew Ng. CS229 Machine Learning. Fall 2016. Stanford University: http://cs229.
 
 * Recommended. Calculus and Linear Algebra. 
 
+Hugo Larochelle. [Neural Networks Class](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH). Fall 2013.  Université de Sherbrooke.
+
 
 
 
