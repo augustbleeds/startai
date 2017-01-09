@@ -1,7 +1,7 @@
 # startai
 
 #####Introduction
-There are wonderful AI resources online. But, for those just getting interested in the subject, it is difficult to know where to start. This is a recommendation, in the works, based off my personal experiences as a scavanger on the internet. 
+There are wonderful AI resources online. But, for those just getting interested in the subject, it is difficult to know where to start. This is a recommendation, in the works, based off my personal experiences as a scavenger on the internet. 
 
 ##### What is Artificial Intelligence
 
